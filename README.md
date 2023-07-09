@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robert1745&label=Profile%20views&color=0e75b6&style=flat" alt="robert1745" /> </p>
 
-- 🌱 I’m currently learning **React Js**
+- 🔭 I’m currently in IIITDMJ 3rd year CSE undergrad🧑🏻‍💻
 
-- 💬 Ask me about **React Js**
+- 🌱 I’m looking for contributing in  **React Js and Nodejs projects**
+
+- 💬 Ask me about **React Js and  Nodejs**
 
 - 📫 How to reach me **0745naveen@gmail.com**
 
