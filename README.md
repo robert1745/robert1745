@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently in IIITDMJ final year CSE undergrad🧑🏻‍💻
 
-- 🌱 I’m currently learning and building go projects.
+- 🌱 I’m currently exploring Backend , by building projects in different tech stacks .
 
 - 💬 Ask me about ** Backend stuffs **
 
