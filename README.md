@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robert1745&label=Profile%20views&color=0e75b6&style=flat" alt="robert1745" /> </p>
 
-- 🔭 I’m currently in IIITDMJ final year CSE undergrad🧑🏻‍💻
+- 🔭 Full Stack developer!!
 
-- 🌱 I’m currently exploring Backend , by building projects in different tech stacks .
+- 🌱 Looking to explore ai agents and open to work on full stack projects .
 
 - 💬 Ask me about ** Backend stuffs **
 
